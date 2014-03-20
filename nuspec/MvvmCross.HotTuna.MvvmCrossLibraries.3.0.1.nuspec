@@ -15,36 +15,42 @@
 	<files>		
 		<!-- PCL -->
 		<file src="..\bin\Release\Mvx\Portable\Cirrious.MvvmCross.dll" target="lib\portable-win+net45+sl50+wp8+MonoAndroid+MonoTouch\Cirrious.MvvmCross.dll" />
+		<file src="..\Library\Resharper\Annotations\Cirrious.MvvmCross.ExternalAnnotations.xml" target="lib\portable-win+net45+sl50+wp8+MonoAndroid+MonoTouch\Cirrious.MvvmCross.ExternalAnnotations.xml" />
 
 		<!-- wpf -->
 		<file src="..\bin\Release\Mvx\Wpf\Cirrious.MvvmCross.Wpf.dll" target="lib\net45\Cirrious.MvvmCross.Wpf.dll" />
 
 		<!-- wpf - PCL -->
 		<file src="..\bin\Release\Mvx\Portable\Cirrious.MvvmCross.dll" target="lib\net45\Cirrious.MvvmCross.dll" />
+		<file src="..\Library\Resharper\Annotations\Cirrious.MvvmCross.ExternalAnnotations.xml" target="lib\net45\Cirrious.MvvmCross.ExternalAnnotations.xml" />
 
 		<!-- store -->
 		<file src="..\bin\Release\Mvx\WindowsStore\Cirrious.MvvmCross.WindowsStore.dll" target="lib\netcore45\Cirrious.MvvmCross.WindowsStore.dll" />
 
 		<!-- store - PCL -->
 		<file src="..\bin\Release\Mvx\Portable\Cirrious.MvvmCross.dll" target="lib\netcore45\Cirrious.MvvmCross.dll" />
-        
+        <file src="..\Library\Resharper\Annotations\Cirrious.MvvmCross.ExternalAnnotations.xml" target="lib\netcore45\Cirrious.MvvmCross.ExternalAnnotations.xml" />
+
 		<!-- phone -->
 		<file src="..\bin\Release\Mvx\WindowsPhone\Cirrious.MvvmCross.WindowsPhone.dll" target="lib\wp8\Cirrious.MvvmCross.WindowsPhone.dll" />
 
 		<!-- phone - PCL -->
 		<file src="..\bin\Release\Mvx\Portable\Cirrious.MvvmCross.dll" target="lib\wp8\Cirrious.MvvmCross.dll" />
+        <file src="..\Library\Resharper\Annotations\Cirrious.MvvmCross.ExternalAnnotations.xml" target="lib\wp8\Cirrious.MvvmCross.ExternalAnnotations.xml" />
 
 		<!-- droid -->
 		<file src="..\bin\Release\Mvx\Droid\Cirrious.MvvmCross.Droid.dll" target="lib\MonoAndroid\Cirrious.MvvmCross.Droid.dll" />
 
 		<!-- droid - PCL -->
 		<file src="..\bin\Release\Mvx\Portable\Cirrious.MvvmCross.dll" target="lib\MonoAndroid\Cirrious.MvvmCross.dll" />
-		
+		<file src="..\Library\Resharper\Annotations\Cirrious.MvvmCross.ExternalAnnotations.xml" target="lib\MonoAndroid\Cirrious.MvvmCross.ExternalAnnotations.xml" />
+
 		<!-- touch -->
 		<file src="..\bin\Release\Mvx\Touch\Cirrious.MvvmCross.Touch.dll" target="lib\MonoTouch\Cirrious.MvvmCross.Touch.dll" />
 
 		<!-- touch - PCL -->
 		<file src="..\bin\Release\Mvx\Portable\Cirrious.MvvmCross.dll" target="lib\MonoTouch\Cirrious.MvvmCross.dll" />
+		<file src="..\Library\Resharper\Annotations\Cirrious.MvvmCross.ExternalAnnotations.xml" target="lib\MonoTouch\Cirrious.MvvmCross.ExternalAnnotations.xml" />
 
 		<!-- mac -->
 		<!-- mac - PCL -->
